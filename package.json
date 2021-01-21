@@ -24,7 +24,7 @@
     "axios": "^0.19.2",
     "deepmerge": "^4.2.2",
     "dotenv": "^8.2.0",
-    "immer": "^6.0.2",
+    "immer": "^8.0.1",
     "immer-combine-reducers": "^1.0.1",
     "isomorphic-unfetch": "^3.0.0",
     "mongodb": "^3.5.5",
